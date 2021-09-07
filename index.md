@@ -1,4 +1,6 @@
 # Test Testson
-CDIO Software Engneer
-## CDIO ALE
-## Cubing
+Collaborative software engineer
+## My projects
+* Collabortive Software Project in Computational Physics
+## My skills
+* Git and GitHub
